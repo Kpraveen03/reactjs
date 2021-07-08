@@ -1,0 +1,9 @@
+.footer{
+    background-color: aqua;
+    position: fixed;
+    width: 100%;
+    text-align: end;
+    bottom: 0;
+    display:grid;
+    grid-template-columns: auto auto ;
+}
